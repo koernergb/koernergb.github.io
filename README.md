@@ -15,4 +15,4 @@ SIDE PROJECTS:
 - i ching
 - unreal
 - library demos
-- chatgpt shit
+- chatgpt 
